@@ -1,0 +1,467 @@
+From, To, Duration, Time, Mode, Warnings, Time in Traffic
+Harpur Lane,Bank of America,26 mins,2025-06-29 23:49:34.388979,Driving,[],25 mins
+Harpur Lane,Bank of America,26 mins,2025-06-29 23:50:43.239344,Driving,[],25 mins
+Aon,Harpur Lane,56 mins,2025-06-30 00:30:08.616346,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 00:32:06.218431,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 00:49:48.216507,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 00:51:30.069301,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 00:56:53.991000,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 00:56:53.991000,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 00:59:15.019022,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 00:59:15.019022,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 01:03:01.084129,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 01:04:01.000802,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 01:05:01.707957,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 01:06:02.571275,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 01:15:01.251166,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 01:30:02.106326,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 01:49:23.633469,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,56 mins,2025-06-30 02:04:24.455240,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,53 mins,2025-06-30 04:27:40.943009,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,57 mins,2025-06-30 09:45:02.008677,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,57 mins,2025-06-30 10:00:03.095902,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,1 hour 9 mins,2025-06-30 10:15:04.104886,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,57 mins,2025-06-30 10:30:05.263246,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,57 mins,2025-06-30 10:45:01.793562,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,57 mins,2025-06-30 11:00:03.234911,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,1 hour 10 mins,2025-06-30 11:15:04.573951,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 11:30:05.929129,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 11:45:07.340389,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 12:00:08.877834,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 12:15:10.238310,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+"53.348847759098696, -6.254274103293622","53.362388516386325, -6.528995331027238",1 hour 3 mins,2025-06-30 12:47:13.597373,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+"53.348847759098696, -6.254274103293622","53.362388516386325, -6.528995331027238",35 mins,2025-06-30 12:47:14.002175,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 12:51:01.920005,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 12:51:02.461444,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 13:00:01.525979,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 13:00:01.908252,driving,,36 mins
+Aon,Harpur Lane,1 hour 23 mins,2025-06-30 13:10:01.486873,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 13:10:01.905334,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 13:11:26.866783,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 13:11:27.307846,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 13:12:32.901514,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 13:12:37.190098,driving,,35 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 13:15:01.081577,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 13:15:01.536353,driving,,35 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 13:15:54.001982,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 13:15:54.478135,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 13:19:39.115299,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 13:19:39.552374,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 13:23:01.221193,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 13:23:01.698423,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 13:30:01.538596,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 13:30:01.959602,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 13:45:03.201300,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-06-30 13:45:03.609703,driving,,40 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-06-30 14:00:04.883240,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-06-30 14:00:05.212997,driving,,41 mins
+Aon,Harpur Lane,1 hour 7 mins,2025-06-30 14:15:06.612800,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 14:15:07.034033,driving,,38 mins
+Aon,Harpur Lane,1 hour 7 mins,2025-06-30 14:30:08.453001,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 14:30:08.930092,driving,,38 mins
+Aon,Harpur Lane,1 hour 7 mins,2025-06-30 14:45:10.266949,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 14:45:10.629932,driving,,39 mins
+Aon,Harpur Lane,1 hour 7 mins,2025-06-30 15:00:12.018565,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 15:00:12.315757,driving,,37 mins
+Aon,Harpur Lane,1 hour 29 mins,2025-06-30 15:15:13.681247,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 15:15:14.121365,driving,,38 mins
+Aon,Harpur Lane,1 hour 13 mins,2025-06-30 15:30:15.459610,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 15:30:15.961794,driving,,43 mins
+Aon,Harpur Lane,1 hour 14 mins,2025-06-30 15:45:17.367797,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 15:45:17.867269,driving,,45 mins
+Aon,Harpur Lane,1 hour 13 mins,2025-06-30 16:00:19.176917,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 16:00:19.723572,driving,,48 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-06-30 16:15:21.132410,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 16:15:21.529121,driving,,48 mins
+Aon,Harpur Lane,1 hour 24 mins,2025-06-30 16:30:22.880594,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 16:30:23.458189,driving,,45 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-06-30 16:45:24.935430,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 16:45:25.424221,driving,,45 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-06-30 17:00:26.832128,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 17:00:27.289807,driving,,48 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-06-30 17:14:40.112149,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 17:14:40.606080,driving,,47 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-06-30 17:15:28.628110,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 17:15:29.024684,driving,,48 mins
+Aon,Harpur Lane,1 hour 18 mins,2025-06-30 17:30:30.284468,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 17:30:30.687528,driving,,44 mins
+Aon,Harpur Lane,1 hour 20 mins,2025-06-30 17:45:31.995788,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 17:45:32.336403,driving,,42 mins
+Aon,Harpur Lane,1 hour 8 mins,2025-06-30 18:00:33.692934,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-06-30 18:00:34.050331,driving,,43 mins
+Aon,Harpur Lane,1 hour 1 min,2025-06-30 18:15:35.325612,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-06-30 18:15:35.760217,driving,,43 mins
+Aon,Harpur Lane,1 hour 1 min,2025-06-30 18:30:37.235147,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-06-30 18:30:37.575643,driving,,38 mins
+Aon,Harpur Lane,1 hour 1 min,2025-06-30 18:45:38.770930,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-06-30 18:45:39.100203,driving,,35 mins
+Aon,Harpur Lane,1 hour 1 min,2025-06-30 19:00:40.436398,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 19:00:40.899804,driving,,33 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-06-30 19:15:42.112844,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 19:15:42.490110,driving,,31 mins
+Aon,Harpur Lane,1 hour 1 min,2025-06-30 19:30:43.641437,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 19:30:44.013811,driving,,32 mins
+Aon,Harpur Lane,1 hour 1 min,2025-06-30 19:45:45.226626,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 19:45:45.606782,driving,,33 mins
+Aon,Harpur Lane,1 hour 1 min,2025-06-30 20:00:46.788855,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 20:00:47.164109,driving,,32 mins
+Aon,Harpur Lane,1 hour 22 mins,2025-06-30 20:15:48.298666,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 20:15:48.681286,driving,,30 mins
+Aon,Harpur Lane,53 mins,2025-06-30 20:30:49.867577,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 20:30:50.256077,driving,,31 mins
+Aon,Harpur Lane,53 mins,2025-06-30 20:45:51.402779,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 20:45:51.751656,driving,,30 mins
+Aon,Harpur Lane,53 mins,2025-06-30 21:00:52.890419,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 21:00:53.293067,driving,,31 mins
+Aon,Harpur Lane,1 hour 25 mins,2025-06-30 21:15:54.605797,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 21:15:55.026543,driving,,30 mins
+Aon,Harpur Lane,53 mins,2025-06-30 21:30:56.289202,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 21:30:56.636976,driving,,30 mins
+Aon,Harpur Lane,53 mins,2025-06-30 21:45:57.850855,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 21:45:58.214965,driving,,30 mins
+Aon,Harpur Lane,53 mins,2025-06-30 22:00:59.377663,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 22:00:59.682098,driving,,29 mins
+Aon,Harpur Lane,53 mins,2025-06-30 22:16:00.750417,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 22:16:01.188555,driving,,28 mins
+Aon,Harpur Lane,53 mins,2025-06-30 22:31:02.521323,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,33 mins,2025-06-30 22:31:02.846090,driving,,29 mins
+Aon,Harpur Lane,53 mins,2025-06-30 22:46:04.036857,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-06-30 22:46:04.436140,driving,,29 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-06-30 23:01:05.615205,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-06-30 23:01:05.961680,driving,,29 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-06-30 23:16:07.140950,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-06-30 23:16:07.502088,driving,,31 mins
+Aon,Harpur Lane,1 hour 23 mins,2025-06-30 23:31:08.702171,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-06-30 23:31:09.078724,driving,,30 mins
+Aon,Harpur Lane,55 mins,2025-06-30 23:46:10.323520,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-06-30 23:46:10.736216,driving,,30 mins
+Aon,Harpur Lane,55 mins,2025-07-01 00:00:01.391380,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-07-01 00:00:01.391380,driving,,28 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-01 08:45:01.512251,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-07-01 08:45:01.512251,driving,,42 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-01 09:00:01.446637,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-07-01 09:00:01.446637,driving,,39 mins
+Aon,Harpur Lane,1 hour 16 mins,2025-07-01 09:15:03.288300,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-07-01 09:15:03.288300,driving,,39 mins
+Aon,Harpur Lane,57 mins,2025-07-01 09:30:05.127258,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-07-01 09:30:05.127258,driving,,39 mins
+Aon,Harpur Lane,57 mins,2025-07-01 09:45:07.014130,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-07-01 09:45:07.014130,driving,,39 mins
+Aon,Harpur Lane,57 mins,2025-07-01 10:00:08.748894,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-07-01 10:00:08.748894,driving,,38 mins
+Aon,Harpur Lane,1 hour 9 mins,2025-07-01 10:15:10.340151,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,36 mins,2025-07-01 10:15:10.340151,driving,,37 mins
+Aon,Harpur Lane,57 mins,2025-07-01 10:30:12.204425,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-07-01 10:30:12.204425,driving,,36 mins
+Aon,Harpur Lane,57 mins,2025-07-01 10:45:13.952704,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-07-01 10:45:13.952704,driving,,35 mins
+Aon,Harpur Lane,57 mins,2025-07-01 11:00:15.615919,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-07-01 11:00:15.615919,driving,,36 mins
+Aon,Harpur Lane,1 hour 10 mins,2025-07-01 11:15:17.251217,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,35 mins,2025-07-01 11:15:17.251217,driving,,35 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-01 11:30:18.970549,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 11:30:18.970549,driving,,35 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-01 11:45:21.128016,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 11:45:21.128016,driving,,35 mins
+Aon,Harpur Lane,1 hour 2 mins,2025-07-01 12:00:22.957316,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 12:00:22.957316,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-01 12:15:24.768027,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 12:15:24.768027,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-01 12:30:26.467381,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 12:30:26.467381,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-01 12:45:28.150306,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 12:45:28.150306,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-01 13:00:30.034896,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 13:00:30.034896,driving,,35 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-01 13:15:31.767681,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 13:15:31.767681,driving,,35 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-01 13:30:33.548289,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 13:30:33.548289,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-01 13:45:35.296815,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 13:45:35.296815,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-01 14:00:36.859956,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 14:00:36.859956,driving,,36 mins
+Aon,Harpur Lane,1 hour 7 mins,2025-07-01 14:15:38.461373,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 14:15:38.461373,driving,,36 mins
+Aon,Harpur Lane,1 hour 7 mins,2025-07-01 14:30:40.336603,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 14:30:40.336603,driving,,36 mins
+Aon,Harpur Lane,1 hour 7 mins,2025-07-01 14:45:42.018136,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 14:45:42.018136,driving,,37 mins
+Aon,Harpur Lane,1 hour 7 mins,2025-07-01 15:00:44.022394,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 15:00:44.022394,driving,,39 mins
+Aon,Harpur Lane,1 hour 32 mins,2025-07-01 15:15:45.866157,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 15:15:45.866157,driving,,39 mins
+Aon,Harpur Lane,1 hour 13 mins,2025-07-01 15:30:47.754717,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 15:30:47.754717,driving,,45 mins
+Aon,Harpur Lane,1 hour 14 mins,2025-07-01 15:45:49.603198,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 15:45:49.603198,driving,,47 mins
+Aon,Harpur Lane,1 hour 14 mins,2025-07-01 16:00:51.629802,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 16:00:51.629802,driving,,54 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-07-01 16:15:53.460908,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,39 mins,2025-07-01 16:15:53.460908,driving,,55 mins
+Aon,Harpur Lane,1 hour 24 mins,2025-07-01 16:30:55.433531,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,40 mins,2025-07-01 16:30:55.433531,driving,,52 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-07-01 16:45:57.394983,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,40 mins,2025-07-01 16:45:57.394983,driving,,56 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-07-01 17:00:59.098434,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,39 mins,2025-07-01 17:00:59.098434,driving,,55 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-07-01 17:16:00.854735,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,38 mins,2025-07-01 17:16:00.854735,driving,,51 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-07-01 17:31:02.647075,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,38 mins,2025-07-01 17:31:02.647075,driving,,49 mins
+Aon,Harpur Lane,1 hour 8 mins,2025-07-01 17:46:04.325392,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,39 mins,2025-07-01 17:46:04.325392,driving,,48 mins
+Aon,Harpur Lane,1 hour 8 mins,2025-07-01 18:01:05.949371,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,39 mins,2025-07-01 18:01:05.949371,driving,,44 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-01 18:16:07.692491,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,38 mins,2025-07-01 18:16:07.692491,driving,,43 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-01 18:31:10.002462,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-01 18:31:10.002462,driving,,40 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-01 18:46:11.723697,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-01 18:46:11.723697,driving,,37 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-01 19:01:13.448968,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,38 mins,2025-07-01 19:01:13.448968,driving,,36 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-07-01 19:16:14.889775,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 19:16:14.889775,driving,,33 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-01 19:31:16.666954,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 19:31:16.666954,driving,,32 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-01 19:46:18.445749,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 19:46:18.445749,driving,,32 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-01 20:01:19.993836,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 20:01:19.993836,driving,,33 mins
+Aon,Harpur Lane,1 hour 22 mins,2025-07-01 20:16:21.362042,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 20:16:21.362042,driving,,32 mins
+Aon,Harpur Lane,53 mins,2025-07-01 20:31:22.923716,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 20:31:22.923716,driving,,31 mins
+Aon,Harpur Lane,53 mins,2025-07-01 20:46:24.394742,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-01 20:46:24.394742,driving,,32 mins
+Aon,Harpur Lane,53 mins,2025-07-01 21:01:26.026358,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-01 21:01:26.026358,driving,,32 mins
+Aon,Harpur Lane,53 mins,2025-07-01 21:16:27.417768,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-01 21:16:27.417768,driving,,32 mins
+Aon,Harpur Lane,53 mins,2025-07-01 21:31:29.086422,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-01 21:31:29.086422,driving,,31 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-07-01 23:00:01.755265,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-01 23:00:01.755265,driving,,29 mins
+Aon,Harpur Lane,59 mins,2025-07-02 06:30:03.322871,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 06:30:03.322871,driving,,30 mins
+Aon,Harpur Lane,59 mins,2025-07-02 06:45:04.787620,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 06:45:04.787620,driving,,32 mins
+Aon,Harpur Lane,59 mins,2025-07-02 07:00:06.397678,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 07:00:06.397678,driving,,35 mins
+Aon,Harpur Lane,1 hour 6 mins,2025-07-02 07:15:07.863643,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 07:15:07.863643,driving,,40 mins
+Aon,Harpur Lane,59 mins,2025-07-02 07:30:09.246253,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 07:30:09.246253,driving,,38 mins
+Aon,Harpur Lane,59 mins,2025-07-02 07:45:10.819502,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 07:45:10.819502,driving,,40 mins
+Aon,Harpur Lane,59 mins,2025-07-02 08:00:12.373621,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 08:00:12.373621,driving,,39 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-07-02 08:15:13.734597,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 08:15:13.734597,driving,,40 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-02 08:30:15.256182,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 08:30:15.256182,driving,,39 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-02 08:45:16.817913,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 08:45:16.817913,driving,,42 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-02 09:00:18.498415,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 09:00:18.498415,driving,,38 mins
+Aon,Harpur Lane,1 hour 16 mins,2025-07-02 09:15:19.903460,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 09:15:19.903460,driving,,37 mins
+Aon,Harpur Lane,57 mins,2025-07-02 09:30:21.435158,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 09:30:21.435158,driving,,36 mins
+Aon,Harpur Lane,57 mins,2025-07-02 09:45:22.968309,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 09:45:22.968309,driving,,35 mins
+Aon,Harpur Lane,57 mins,2025-07-02 10:00:24.459568,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 10:00:24.459568,driving,,35 mins
+Aon,Harpur Lane,1 hour 9 mins,2025-07-02 10:15:25.907390,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 10:15:25.907390,driving,,35 mins
+Aon,Harpur Lane,57 mins,2025-07-02 10:30:27.674751,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 10:30:27.674751,driving,,34 mins
+Aon,Harpur Lane,1 hour 8 mins,2025-07-02 18:00:01.749259,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 18:00:01.749259,driving,,41 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-02 18:15:04.113730,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 18:15:04.113730,driving,,37 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-02 18:30:06.794494,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 18:30:06.794494,driving,,35 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-02 18:45:09.099963,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 18:45:09.099963,driving,,34 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-02 19:00:11.210772,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 19:00:11.210772,driving,,33 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-07-02 19:15:13.445908,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 19:15:13.445908,driving,,33 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-02 19:30:15.637204,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 19:30:15.637204,driving,,33 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-02 19:45:17.671577,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 19:45:17.671577,driving,,32 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-02 20:00:19.766334,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 20:00:19.766334,driving,,33 mins
+Aon,Harpur Lane,1 hour 22 mins,2025-07-02 20:15:22.708821,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 20:15:22.708821,driving,,32 mins
+Aon,Harpur Lane,53 mins,2025-07-02 20:30:24.949712,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 20:30:24.949712,driving,,32 mins
+Aon,Harpur Lane,53 mins,2025-07-02 20:45:27.107647,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-02 20:45:27.107647,driving,,33 mins
+Aon,Harpur Lane,53 mins,2025-07-02 21:00:29.153354,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 21:00:29.153354,driving,,32 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-07-02 21:15:31.199157,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 21:15:31.199157,driving,,32 mins
+Aon,Harpur Lane,53 mins,2025-07-02 21:30:33.372436,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-02 21:30:33.372436,driving,,32 mins
+Aon,Harpur Lane,59 mins,2025-07-03 06:30:35.083176,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-03 06:30:35.083176,driving,,31 mins
+Aon,Harpur Lane,59 mins,2025-07-03 06:45:36.954966,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,38 mins,2025-07-03 06:45:36.954966,driving,,32 mins
+Aon,Harpur Lane,59 mins,2025-07-03 07:00:38.799390,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-03 07:00:38.799390,driving,,35 mins
+Aon,Harpur Lane,1 hour 6 mins,2025-07-03 07:15:40.634812,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,38 mins,2025-07-03 07:15:40.634812,driving,,37 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-03 07:30:42.662052,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-03 07:30:42.662052,driving,,39 mins
+Aon,Harpur Lane,59 mins,2025-07-03 07:45:44.659842,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 07:45:44.659842,driving,,38 mins
+Aon,Harpur Lane,59 mins,2025-07-03 08:00:46.744999,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 08:00:46.744999,driving,,37 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-07-03 08:15:48.545838,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 08:15:48.545838,driving,,36 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-03 08:30:50.410849,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 08:30:50.410849,driving,,38 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-03 08:45:52.583886,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 08:45:52.583886,driving,,37 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-03 09:00:55.176463,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 09:00:55.176463,driving,,37 mins
+Aon,Harpur Lane,1 hour 16 mins,2025-07-03 09:15:57.000184,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 09:15:57.000184,driving,,36 mins
+Aon,Harpur Lane,57 mins,2025-07-03 09:30:59.040668,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 09:30:59.040668,driving,,35 mins
+Aon,Harpur Lane,57 mins,2025-07-03 09:46:01.101474,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 09:46:01.101474,driving,,35 mins
+Aon,Harpur Lane,57 mins,2025-07-03 10:01:03.020726,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 10:01:03.020726,driving,,35 mins
+Aon,Harpur Lane,1 hour 9 mins,2025-07-03 10:16:04.768484,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 10:16:04.768484,driving,,35 mins
+Aon,Harpur Lane,57 mins,2025-07-03 10:31:06.835147,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 10:31:06.835147,driving,,35 mins
+Aon,Harpur Lane,57 mins,2025-07-03 10:46:08.907541,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 10:46:08.907541,driving,,34 mins
+Aon,Harpur Lane,57 mins,2025-07-03 11:01:10.835099,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 11:01:10.835099,driving,,34 mins
+Aon,Harpur Lane,1 hour 10 mins,2025-07-03 11:16:12.852910,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 11:16:12.852910,driving,,35 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-03 11:31:14.887593,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 11:31:14.887593,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-03 11:46:16.907907,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 11:46:16.907907,driving,,37 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-03 12:01:18.739894,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 12:01:18.739894,driving,,37 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-03 12:16:20.690313,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 12:16:20.690313,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-03 12:31:22.834588,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 12:31:22.834588,driving,,37 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-03 12:46:24.890558,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 12:46:24.890558,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-03 13:01:26.829397,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 13:01:26.829397,driving,,36 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-03 13:16:28.810081,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 13:16:28.810081,driving,,37 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-03 13:31:30.858409,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 13:31:30.858409,driving,,37 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-03 13:46:33.111622,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 13:46:33.111622,driving,,41 mins
+Aon,Harpur Lane,1 hour 3 mins,2025-07-03 14:01:35.058771,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 14:01:35.058771,driving,,41 mins
+Aon,Harpur Lane,1 hour 7 mins,2025-07-03 14:16:37.141189,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 14:16:37.141189,driving,,44 mins
+Aon,Harpur Lane,1 hour 7 mins,2025-07-03 14:31:39.212708,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 14:31:39.212708,driving,,41 mins
+Aon,Harpur Lane,1 hour 7 mins,2025-07-03 14:46:41.440124,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 14:46:41.440124,driving,,40 mins
+Aon,Harpur Lane,1 hour 6 mins,2025-07-03 15:01:43.237255,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 15:01:43.237255,driving,,43 mins
+Aon,Harpur Lane,1 hour 32 mins,2025-07-03 15:16:45.316861,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 15:16:45.316861,driving,,42 mins
+Aon,Harpur Lane,1 hour 13 mins,2025-07-03 15:31:47.404119,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 15:31:47.404119,driving,,45 mins
+Aon,Harpur Lane,1 hour 14 mins,2025-07-03 15:46:49.518311,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 15:46:49.518311,driving,,46 mins
+Aon,Harpur Lane,1 hour 13 mins,2025-07-03 16:01:51.946747,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 16:01:51.946747,driving,,52 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-07-03 16:16:53.946414,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 16:16:53.946414,driving,,49 mins
+Aon,Harpur Lane,1 hour 24 mins,2025-07-03 16:31:56.247805,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 16:31:56.247805,driving,,49 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-07-03 16:46:58.265801,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 16:46:58.265801,driving,,50 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-07-03 17:02:00.259723,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 17:02:00.259723,driving,,48 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-07-03 17:17:02.625203,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 17:17:02.625203,driving,,46 mins
+Aon,Harpur Lane,1 hour 18 mins,2025-07-03 17:32:04.604830,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 17:32:04.604830,driving,,46 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-07-03 17:47:06.768530,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 17:47:06.768530,driving,,44 mins
+Aon,Harpur Lane,1 hour 8 mins,2025-07-03 18:02:09.224733,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 18:02:09.224733,driving,,47 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-03 18:17:11.323677,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,43 mins,2025-07-03 18:17:11.323677,driving,,47 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-03 18:32:13.600268,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,43 mins,2025-07-03 18:32:13.600268,driving,,44 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-03 18:47:15.670676,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,43 mins,2025-07-03 18:47:15.670676,driving,,42 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-03 19:02:17.450021,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,43 mins,2025-07-03 19:02:17.450021,driving,,42 mins
+Aon,Harpur Lane,1 hour 21 mins,2025-07-03 19:17:19.373656,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 19:17:19.373656,driving,,34 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-03 19:32:21.351032,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 19:32:21.351032,driving,,34 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-03 19:47:23.294826,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 19:47:23.294826,driving,,33 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-03 20:02:25.300910,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 20:02:25.300910,driving,,33 mins
+Aon,Harpur Lane,1 hour 17 mins,2025-07-03 20:17:26.989118,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 20:17:26.989118,driving,,33 mins
+Aon,Harpur Lane,53 mins,2025-07-03 20:32:28.614672,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 20:32:28.614672,driving,,32 mins
+Aon,Harpur Lane,53 mins,2025-07-03 20:47:30.547863,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 20:47:30.547863,driving,,32 mins
+Aon,Harpur Lane,53 mins,2025-07-03 21:02:32.378131,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-03 21:02:32.378131,driving,,32 mins
+Aon,Harpur Lane,1 hour 23 mins,2025-07-03 21:17:34.226129,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-03 21:17:34.226129,driving,,32 mins
+Aon,Harpur Lane,53 mins,2025-07-03 21:32:36.139672,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-03 21:32:36.139672,driving,,32 mins
+Aon,Harpur Lane,53 mins,2025-07-03 22:27:01.789903,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-03 22:27:01.789903,driving,,31 mins
+Aon,Harpur Lane,59 mins,2025-07-04 06:30:01.313192,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-04 06:30:01.313192,driving,,30 mins
+Aon,Harpur Lane,59 mins,2025-07-04 06:45:03.302702,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-04 06:45:03.302702,driving,,32 mins
+Aon,Harpur Lane,59 mins,2025-07-04 07:00:05.273103,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,37 mins,2025-07-04 07:00:05.273103,driving,,34 mins
+Aon,Harpur Lane,1 hour 6 mins,2025-07-04 07:15:07.183367,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 07:15:07.183367,driving,,33 mins
+Aon,Harpur Lane,59 mins,2025-07-04 07:30:09.218307,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 07:30:09.218307,driving,,34 mins
+Aon,Harpur Lane,59 mins,2025-07-04 07:45:11.156843,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 07:45:11.156843,driving,,34 mins
+Aon,Harpur Lane,59 mins,2025-07-04 08:00:13.224895,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 08:00:13.224895,driving,,34 mins
+Aon,Harpur Lane,1 hour 15 mins,2025-07-04 08:15:15.074931,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 08:15:15.074931,driving,,34 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-04 08:30:17.122795,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 08:30:17.122795,driving,,34 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-04 08:45:18.855109,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 08:45:18.855109,driving,,35 mins
+Aon,Harpur Lane,1 hour 1 min,2025-07-04 09:00:20.845925,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 09:00:20.845925,driving,,35 mins
+Aon,Harpur Lane,1 hour 16 mins,2025-07-04 09:15:22.828212,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 09:15:22.828212,driving,,35 mins
+Aon,Harpur Lane,57 mins,2025-07-04 09:30:24.791186,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 09:30:24.791186,driving,,35 mins
+Aon,Harpur Lane,57 mins,2025-07-04 09:45:26.862104,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 09:45:26.862104,driving,,36 mins
+Aon,Harpur Lane,57 mins,2025-07-04 10:00:28.730226,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 10:00:28.730226,driving,,35 mins
+Aon,Harpur Lane,1 hour 9 mins,2025-07-04 10:15:30.486977,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 10:15:30.486977,driving,,35 mins
+Aon,Harpur Lane,57 mins,2025-07-04 10:30:32.567738,transit,['Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths.'],0
+Aon,Harpur Lane,34 mins,2025-07-04 10:30:32.567738,driving,,35 mins
